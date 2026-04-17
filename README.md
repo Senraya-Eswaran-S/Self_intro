@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xdreamer7
-- 👀 I’m interested in Cyber
+- 👀 I’m interested in
 - 🌱 I’m currently learning Cyber forensics
 - 💞️ I’m looking to collaborate on security 
 - 📫 How to reach me ..
